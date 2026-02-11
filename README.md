@@ -16,3 +16,5 @@ A simple webpage that displays movie information on button clicks using HTML, CS
 2. **Thalapathi (1991)** – Hero: Rajinikanth  
 3. **Hi Nanna (2023)** – Hero: Nani
 
+
+
